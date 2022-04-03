@@ -32,8 +32,9 @@ In  order to *run and test* this program, you require the following:
 Python's __math module__ is imported to access and perform additional mathematical operations in the application. 
 
 # Application components #
-Open and run __finance_calculators.py
-This application comprises the following 3 sections: 
+Open and run __finance_calculators.py__
+
+__This application comprises the following 3 sections:__ 
 ##### 1. USER MENU:
       - This is the screen that the user will be see when they open the application. 
       - The user will be prompted to select one of two options: "investment" OR "bond" 
