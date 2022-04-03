@@ -70,24 +70,3 @@ This application comprises the following 3 sections:
 (c) Tammy-Lee Bastian, HyperionDev
 Licensed under the [MIT License](LICENSE)
 
-
-
-
-
-
-
-
-
-
-
-
-     
-
-
-
-
-
-
-
-
-
